@@ -1,3 +1,5 @@
+Flags est un algorithme de détection d'anomalie basé sur l'entropie.
+
 # Install librairies first:
     pip install -r requirements.txt
 
